@@ -1,0 +1,12 @@
+.cardTemplate {
+    width: 550px;
+    height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid rgb(176, 138, 181);
+    border-radius: 10px;
+    margin: 35px;
+    font-size: 25px;
+    position: relative;
+}
